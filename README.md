@@ -7,4 +7,7 @@ A basic Blender project simulating water flowing through multiple levels. Simple
 - Simple fluid dynamics.
 - Basic stone texture for basins.
 
-Great for beginners looking to explore fluid simulations in Blender!
+
+
+https://github.com/user-attachments/assets/68934a37-ce8b-471d-bd46-84b3da1e1b03
+
